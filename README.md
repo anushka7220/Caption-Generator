@@ -7,6 +7,9 @@
 
 ![caption](https://github.com/user-attachments/assets/e131f476-3b8b-4054-be23-7a242c3af886)
 
+# Deployed on hugging faces: https://huggingface.co/spaces/anushka37/your_own_caption
+you can have a demo :))
+
 
 A Streamlit application that generates engaging social media captions tailored to specific platforms using a fine-tuned LLama 2 Large Language Model (LLM). The application allows users to select the platform, tone, and length of the caption, ensuring content is optimized for various social media environments.
 
